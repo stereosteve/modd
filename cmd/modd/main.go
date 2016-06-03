@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cortesi/modd"
 	"github.com/cortesi/modd/notify"
 	"github.com/cortesi/moddwatch"
 	"github.com/cortesi/termlog"
+	"github.com/stereosteve/modd"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 
